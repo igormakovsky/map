@@ -9,7 +9,7 @@
 .light-blue {
   color: #6895ab; }
 
-.brown, a, .header__nav a, h2, h4, h5, ol li .date {
+.brown, a, .header__nav a, h4, h5, ol li .date {
   color: #7b6059; }
 
 .light {
@@ -35,11 +35,11 @@
   font-family: 'Alegreya Sans', sans-serif;
   font-weight: 400; }
 
-.bold, h2, h3, h4, h5, ol li .title, ol li .date, strong, .header__nav ul {
+.bold, h3, h4, h5, ol li .title, ol li .date, strong, .header__nav ul {
   font-family: 'Alegreya Sans', sans-serif;
   font-weight: 800; }
 
-.belomorie, h1 {
+.belomorie, h1, h2 {
   font-family: 'belomorie-script', helvetica neue, arial, sans-serif; }
 
 p {

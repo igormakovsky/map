@@ -19,7 +19,7 @@ require $docroot . 'includes/top.php';
 
 <article class="maphub">
 
-    <iframe width="100%" height="100%" src="https://maphub.net/embed/35980?panel=1" frameborder="0"></iframe>
+    <iframe width="100%" height="100%" src="https://maphub.net/embed/40196?panel=1" frameborder="0"></iframe>
 
 </article>
 
