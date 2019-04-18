@@ -361,14 +361,6 @@
 		"oAP": "/includes/meta.php",
 		"oF": 0
 		},
-	"/includes/procedures.php": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/includes/procedures.php",
-		"oF": 0
-		},
 	"/includes/top.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -459,17 +451,6 @@
 		"sC": 0,
 		"tS": 0
 		},
-	"/js/respond.min.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "/js/min/respond.min-min.js",
-		"oF": 0,
-		"sC": 0,
-		"tS": 0
-		},
 	"/js/throwpropsplugin.min.js": {
 		"bF": 0,
 		"ft": 64,
@@ -480,6 +461,25 @@
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
+		},
+	"/README.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
 		},
 	"/scss/_animations.scss": {
 		"aP": 1,

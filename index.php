@@ -1,6 +1,6 @@
 <?php   
 $id = 'index';
-$title = 'Беломорье — иллюстрированная карта';
+$title = 'map';
 require $_SERVER['DOCUMENT_ROOT'] . '/includes/vars.php';
 require $docroot . 'includes/top.php';
 ?>
