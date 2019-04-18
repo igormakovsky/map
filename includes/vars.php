@@ -33,12 +33,12 @@ echo 'doc_root is '.$doc_root.'<br>';
 echo 'baseurl is '.$base_url.'<br>';
 echo 'siteroot is '.$siteroot.'<br>';*/
 
-$project_title = 'Беломорье';
-$copyright = date("Y").' — © АСМЫСЛ — Игорь Маковский и Наталья Рыбальченко | www.asmysl.ru';
-$keywords = 'мурманская область, кандалакша, терский, белое море, туризм, кластер';
+$project_title = 'Тестовая карта';
+$copyright = date("Y").'Игорь Маковский';
+$keywords = 'тестовая карта';
 $author = 'Игорь Маковский';
 $author_facebook = 'igor.makovsky';
 $author_google = '';
-$description = 'Сайт кластера «Беломорье»';
+$description = 'тестовая карта';
 
 ?>

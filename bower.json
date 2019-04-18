@@ -43,7 +43,7 @@
     "normalize-css": "^8.0.0",
     "slick-carousel": "^1.8.1",
     "jquery.countdown": "^2.2.0",
-    "gsap": "greensock#^2.0.2",
+    "gsap": "^2.1.2",
     "PreloadJS": "createjs-preloadjs#^1.0.1"
   }
 }

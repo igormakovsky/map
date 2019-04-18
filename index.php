@@ -5,25 +5,12 @@ require $_SERVER['DOCUMENT_ROOT'] . '/includes/vars.php';
 require $docroot . 'includes/top.php';
 ?>
 
-<div class="fixed" style="left:1rem; top:0rem; z-index:1; width:100%;">
-
-    <div class="absolute" style="left:1rem; top:3rem;">
-        <p><a href="/content/interactive/">Интерактивная карта</a></p>
-    </div>
-
-    <div class="absolute transparent" style="left:1rem; top:1rem;">
-        <h1>Belomorie map</h1>
-    </div>
-
+<div class="absolute rotates" style="left:3rem; top:3rem; width: 1rem; height: 4rem; background-color:blue;">
 </div>
 
 <article class="illustrated scroll">
 
     <div class="map" style="height:2000px; width:2000px;">
-
-        <div class="absolute wind" style="top:1rem; left:1rem;">
-            <img src="/img/map-tree-2.png" srcset="/img/map-tree-2.png 2x" alt="">
-        </div> 
 
         <div class="absolute" style="top:5rem; left:6rem;">
             <img src="/img/map-1.png" srcset="/img/map-1@2x.png 2x" alt="">
@@ -35,6 +22,9 @@ require $docroot . 'includes/top.php';
 
         <div class="absolute" style="top:10rem; left:36rem;">
             <img src="/img/map-3.png" srcset="/img/map-3@2x.png 2x" alt="">
+        </div>
+
+        <div class="absolute rotates" style="left:10rem; top:10rem; width: 1rem; height: 4rem; background-color:red;">
         </div>
 
         <div class="absolute" style="top:40rem; left:56rem;">
@@ -62,7 +52,7 @@ require $docroot . 'includes/top.php';
 
             <div class="absolute" style="top:-4rem; left:14rem;">
                 <a href="http://www.yandex.ru">
-                    <h2>The blue island!</h2>
+                    <h2>Активная точка</h2>
                 </a>
             </div>
         </div>
