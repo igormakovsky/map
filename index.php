@@ -1,6 +1,6 @@
 <?php   
 $id = 'index';
-$title = 'map';
+$title = 'scrollable';
 require $_SERVER['DOCUMENT_ROOT'] . '/includes/vars.php';
 require $docroot . 'includes/top.php';
 ?>
@@ -8,9 +8,7 @@ require $docroot . 'includes/top.php';
 <div class="absolute rotates" style="left:3rem; top:3rem; width: 1rem; height: 4rem; background-color:blue;">
 </div>
 
-<article class="illustrated">
-    
-    <div class="drag" style="height:2rem; width:2rem; background-color:black; top:2rem; left:2rem;"></div>
+<article class="illustrated scroll">
 
     <div class="map" style="height:2000px; width:2000px;">
 
